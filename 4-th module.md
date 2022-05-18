@@ -24,7 +24,8 @@
 
 1) Для чего нужна система сборки CMake? Какие проблемы решает?
 2) Какие есть стадии сборки CMake-проекта?
-3) #TODO
+3) почитать вот это https://habr.com/ru/post/431428/
+4) и вот это https://neerc.ifmo.ru/wiki/index.php?title=CMake_Tutorial
 
 
 ## Протокол HTTP/1.1 и сURL
